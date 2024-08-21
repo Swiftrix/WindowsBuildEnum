@@ -1,0 +1,2 @@
+[System.Management.Automation.PSObject].Assembly.GetType("System.Management.Automation.Utils").GetField("cachedGroupPolicySettings", "NonPublic,Static").SetValue($null, $null)
+$ExecutionContext.SessionState.LanguageMode = "FullLanguage"
